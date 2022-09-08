@@ -1,0 +1,9 @@
+C:\projetos\WebDDD\src\Contatos.Domain\bin\Debug\netstandard2.0\Contatos.Domain.deps.json
+C:\projetos\WebDDD\src\Contatos.Domain\bin\Debug\netstandard2.0\Contatos.Domain.dll
+C:\projetos\WebDDD\src\Contatos.Domain\bin\Debug\netstandard2.0\Contatos.Domain.pdb
+C:\projetos\WebDDD\src\Contatos.Domain\obj\Debug\netstandard2.0\Contatos.Domain.csprojAssemblyReference.cache
+C:\projetos\WebDDD\src\Contatos.Domain\obj\Debug\netstandard2.0\Contatos.Domain.AssemblyInfoInputs.cache
+C:\projetos\WebDDD\src\Contatos.Domain\obj\Debug\netstandard2.0\Contatos.Domain.AssemblyInfo.cs
+C:\projetos\WebDDD\src\Contatos.Domain\obj\Debug\netstandard2.0\Contatos.Domain.csproj.CoreCompileInputs.cache
+C:\projetos\WebDDD\src\Contatos.Domain\obj\Debug\netstandard2.0\Contatos.Domain.dll
+C:\projetos\WebDDD\src\Contatos.Domain\obj\Debug\netstandard2.0\Contatos.Domain.pdb
